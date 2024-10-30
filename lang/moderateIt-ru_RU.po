@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-20 11:47+1000\n"
+"PO-Revision-Date: 2020-03-20 11:47+1000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: moderateIt.php:422 moderateIt.php:589
+msgid "en"
+msgstr "ru"
+
+#: moderateIt.php:423
+msgid "violates?"
+msgstr "нарушает?"
+
+#: moderateIt.php:461
+msgid "Network of Moderators"
+msgstr "Сеть модераторов"
+
+#: moderateIt.php:473
+msgid "Capabilities"
+msgstr "Возможности"
+
+#: moderateIt.php:489
+msgid "Api-key to connect to the network"
+msgstr "Api-ключ для подключения к сети"
+
+#: moderateIt.php:503
+msgid "Application area"
+msgstr "Область применения"
+
+#: moderateIt.php:555
+msgid "Event logging"
+msgstr "Журналирование событий"
+
+#: moderateIt.php:577
+#| msgid ""
+msgid ""
+"With the Network you can create an acceptable online communication culture "
+"in your community:<br>"
+msgstr ""
+"С помощью сети вы можете создать приемлемую культуру онлайн общения в своем "
+"сообществе: <br>"
+
+#: moderateIt.php:578
+msgid "- Anonymous users comment with pre-moderation.<br>"
+msgstr "- Анонимные пользователи комментируют с пре-модерацией. <br>"
+
+#: moderateIt.php:579
+msgid ""
+"- Authorized users, if they do not violate, can comment without pre-"
+"moderation.<br>"
+msgstr ""
+" - Авторизованные пользователи, если они не нарушают, могут комментировать "
+"без пре-модерации. <br>"
+
+#: moderateIt.php:580
+msgid "- Readers can detect violations using post-moderation.<br>"
+msgstr "- Читатели могут выявлять нарушения с помощью пост-модерации. <br>"
+
+#: moderateIt.php:581
+msgid "- A quick introduction for all to the rules of online communication."
+msgstr "- Быстрое введение для всех в правила онлайн общения."
+
+#: moderateIt.php:593
+msgid ""
+"Note: Please register free personal key for your site to use all сabilities "
+"of moderation<br> and read sections Terms of use and Questions about the "
+"Network."
+msgstr ""
+"Примечание: Пожалуйста, зарегистрируйте бесплатный личный ключ для вашего "
+"сайта, <br> чтобы использовать все возможности модерации <br>и прочитайте "
+"разделы Условия использования и Вопросы о сети."
+
+#: moderateIt.php:594
+msgid "See more here."
+msgstr "Больше информации здесь."
+
+#: moderateIt.php:603
+msgid "Enable pre-moderation of a new comment:"
+msgstr "Включать пре-модерацию нового комментария:"
+
+#: moderateIt.php:608
+msgid " from an anonymous user always."
+msgstr "от анонимного пользователя всегда."
+
+#: moderateIt.php:621
+msgid "(Next options will work only with a free personal key for your site)"
+msgstr "(Следующие опции будут работать только с бесплатным личным ключом для вашего сайта)"
+
+#: moderateIt.php:627
+msgid ""
+" from an authorized user, for each case of violation of the Network rules,"
+"<br> detected using pre- or post-moderation via the Network on any site "
+"connected to the Network."
+msgstr ""
+" от авторизованного пользователя, за каждый случай нарушения правил, <br> "
+"выявленый с использованием пре- или пост-модерации через cеть на любом сайте,"
+" подключенном к cети."
+
+#: moderateIt.php:642
+msgid ""
+" from an authorized user, if he does not have approved comment on the "
+"Network or on this Site."
+msgstr ""
+"от авторизованного пользователя, если у него нет одобренного коментария в "
+"сети или на этом сайте."
+
+#: moderateIt.php:657
+msgid "Allow  post-moderation of comments for:"
+msgstr "Разрешить  пост-модерацию комментариев для:"
+
+#: moderateIt.php:663
+msgid " any readers."
+msgstr " всех читателей."
+
+#: moderateIt.php:675
+msgid " an authorized readers."
+msgstr "авторизованных читателей."
+
+#: moderateIt.php:686
+msgid "Enable event recording "
+msgstr "Включить запись событий"
+
+#: moderateIt.php:726
+msgid "Settings for Network of Moderators"
+msgstr "Настройки сети пользовательской модерации"
